@@ -1,0 +1,4 @@
+html,
+body {
+  @apply font-inter text-gray-800 antialiased;
+}
